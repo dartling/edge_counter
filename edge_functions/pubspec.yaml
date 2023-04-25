@@ -1,5 +1,5 @@
-name: supabase_edge_functions_example
-description: A Supaabase Edge Functions example written in Dart.
+name: counter_edge_functions
+description: A Supabase Edge Functions example written in Dart.
 version: 1.0.0
 publish_to: none
 
